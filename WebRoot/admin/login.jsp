@@ -45,11 +45,11 @@ body {
 							<table width="100%" border="0" cellspacing="0" cellpadding="0">
 								<tr>
 									<td width="21%" height="30"><div align="center"><span class="STYLE3">用户</span></div></td>
-									<td width="79%" height="30"><input type="text" name="admin.username" value="1" style="height: 18px; width: 130px; border: solid 1px #cadcb2; font-size: 12px; color: #81b432;"></td>
+									<td width="79%" height="30"><input type="text" name="admin.username" value="admin" style="height: 18px; width: 130px; border: solid 1px #cadcb2; font-size: 12px; color: #81b432;"></td>
 								</tr>
 								<tr>
 									<td height="30"><div align="center"><span class="STYLE3">密码</span></div></td>
-									<td height="30"><input type="password" name="admin.password" value="1" style="height: 18px; width: 130px; border: solid 1px #cadcb2; font-size: 12px; color: #81b432;"></td>
+									<td height="30"><input type="password" name="admin.password" value="" style="height: 18px; width: 130px; border: solid 1px #cadcb2; font-size: 12px; color: #81b432;"></td>
 								</tr>
 								<tr>
 									<td height="30">&nbsp;</td>
